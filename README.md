@@ -1,3 +1,5 @@
+# This repo is not maintained, please see the updated repo at : https://github.com/ai4cloudops
+
 # AI for cloud ops
 
 BU faculty members Ayse Coskun, Alan Liu, and Gianluca Stringhini, along with Red Hat researcher Marcel Hild will pursue work at the intersection of artificial intelligence (AI) and cloud systems through this joint project, ai-for-cloud-ops. 
